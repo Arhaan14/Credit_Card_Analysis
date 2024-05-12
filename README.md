@@ -1,6 +1,3 @@
-# Credit_Card_Analysis
- Credit Card Transaction and Customer Dashboard using Power BI
-
 # Credit Card Analysis Project
  Welcome to the Credit Card Analysis Project repository! This project focuses on analyzing credit card transactions and customer behavior using data analytics tools like Excel, SQL, and Power BI.
 
